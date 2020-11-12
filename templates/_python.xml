@@ -7,7 +7,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="print" value="print(&quot;$var$&quot;)" description="快捷print" toReformat="true" toShortenFQNames="true">
+  <template name="print" value="print($var$)" description="快捷print" toReformat="true" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
